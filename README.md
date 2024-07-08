@@ -1,9 +1,9 @@
 # CODETECH-INTERNSHIP-IOT-Task1
-**Name:** Dhanush H
-**Company:** CODETECH IT SOLUTIONS
-**ID:** CT08DS1824
-**Domain:** Internet of Things
-**Mentor:** Mohammed Muzammil Ahmed
+**Name:** Dhanush H <br>
+**Company:** CODETECH IT SOLUTIONS <br>
+**ID:** CT08DS1824 <br>
+**Domain:** Internet of Things <br>
+**Mentor:** Mohammed Muzammil Ahmed <br>
 
 
 ## Overview of the Project
