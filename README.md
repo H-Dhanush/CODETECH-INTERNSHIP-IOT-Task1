@@ -3,6 +3,7 @@
 **Company:** CODETECH IT SOLUTIONS <br>
 **ID:** CT08DS1824 <br>
 **Domain:** Internet of Things <br>
+**Duration:** June to July 2024 <br>
 **Mentor:** Mohammed Muzammil Ahmed <br>
 
 
