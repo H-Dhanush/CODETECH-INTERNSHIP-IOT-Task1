@@ -77,14 +77,14 @@ The primary objective of the program is to periodically read temperature and hum
 
 ### Hardware and Software Required
 
-● ESP32
-● DHT22 (Humidity+Temperature)
-● 10K Resistor - 1 Qty
-● Breadboard
-● Jumper wires
-● USB cable for Programming(ESP32)
-● Arduino IDE
-● Thingspeak account
+● ESP32 <br>
+● DHT22 (Humidity+Temperature) <br>
+● 10K Resistor - 1 Qty <br>
+● Breadboard <br>
+● Jumper wires <br>
+● USB cable for Programming(ESP32) <br>
+● Arduino IDE <br>
+● Thingspeak account <br>
 
 ### Steps to do this project:
 
